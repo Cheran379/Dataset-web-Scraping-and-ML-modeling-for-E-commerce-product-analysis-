@@ -1,0 +1,2 @@
+# Dataset-web-Scraping-and-ML-modeling-for-E-commerce-product-analysis-
+This project focuses on analyzing e-commerce product data to understand market trends and customer preferences. The dataset was scraped from E-commerce website for wireless earbuds and processed through various stages—data cleaning, database storage, unsupervised learning (clustering), and supervised learning (classification). 
